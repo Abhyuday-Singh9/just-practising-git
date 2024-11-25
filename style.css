@@ -12,3 +12,7 @@ p {
 li {
   color: blue;
 }
+
+footer li {
+  color: violet;
+}
